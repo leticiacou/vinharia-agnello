@@ -4,7 +4,7 @@ Esse projeto se trata de um Sistema básico de cadastro e análise de vinhos art
 
 Grupo:
 Amanda Oliveira Lourenço - 572572
-Giovanna Lopes Scalzonne- 572285
+Giovanna Lopes Scalzone- 572285
 Letícia Brandão Couto - 569516
 
 Engenharia de Software (1ESPJ)
