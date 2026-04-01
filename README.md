@@ -7,5 +7,5 @@ Amanda Oliveira Lourenço - 572572
 Giovanna Lopes Scalzone- 572285  
 Letícia Brandão Couto - 569516  
 
-Engenharia de Software (1ESPJ)
-[text](https://leticiacou.github.io/vinharia-agnello/)
+Engenharia de Software (1ESPJ)  
+[Link do Deploy](https://leticiacou.github.io/vinharia-agnello/)
